@@ -10,13 +10,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-s-6b27a3228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-s-6b27a3228/" height="30" width="40" /></a>
-<a href="https://fb.com/vinayak sukhalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinayak sukhalal" height="30" width="40" /></a>
+
 </p>
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayakanarookutty&show_icons=true&locale=en&layout=compact" alt="vinayakanarookutty" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayakanarookutty&show_icons=true&locale=en" alt="vinayakanarookutty" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakanarookutty&" alt="vinayakanarookutty" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakanarookutty&" alt="vinayakanarookutty" /></p>
